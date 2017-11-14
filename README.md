@@ -1,2 +1,0 @@
-# powerKNAP
-Greenfield Project
